@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LyreTest</string>
+    <string name="accessibility_service_description">用于在游戏中自动点击琴键完成演奏。需要模拟触摸权限，不会读取屏幕内容。</string>
+</resources>

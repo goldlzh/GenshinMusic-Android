@@ -1,0 +1,40 @@
+# Local IDE configuration and build caches.
+*.iml
+.idea/
+.gradle/
+.kotlin/
+**/build/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local reference implementation, songs, installation packages and reports.
+/ref_python/
+/artifacts/
+/archives/
+/app/src/test/resources/desktop_corpus.tsv
+*.[mM][iI][dD]
+*.[mM][iI][dD][iI]
+*.apk
+*.aab
+*.apks
+*.zip
+*.log
+
+# Signing keys, credentials and local assistant settings.
+*.jks
+*.keystore
+*.pem
+*.key
+key.properties
+keystore.properties
+.env
+.env.*
+.codex/
+.agents/
+.claude/
+.aws/
